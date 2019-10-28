@@ -1,7 +1,7 @@
 # Semaphore CI/CD demo for Kubernetes
 
 This is an example application and CI/CD pipeline showing how to build, test and
-deploy a microservice to Kubernetes using Semaphore 2.0.
+deploy a microservice to Kubernetes using Semaphore 2.0..
 
 Ingredients:
 
